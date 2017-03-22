@@ -1,7 +1,7 @@
 # MovieSearchApp
 MovieSearch App for Android
 
-App functionalities:
+## App functionalities:
 - The app uses the Open Movie Database (OMDb) API, available on http://omdbapi.com.
 - Search movies by title (Returns a list of movies)
 - Present the result of the search on a list - Show the thumb image, the title, the year of the movie. 
